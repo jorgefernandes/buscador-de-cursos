@@ -41,5 +41,6 @@
     },
     "scripts-descriptions": {
         "check": "Executa todos os testes e verificações de qualidade de código"
-    }
+    },
+    "license": "GPL-3.0"
 }
